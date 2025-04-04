@@ -1,0 +1,1225 @@
+period,stateid,stateDescription,sectorid,sectorName,customers,price,sales,customers-units,price-units,sales-units
+2024,NC,North Carolina,RES,residential,5111013,14.12,61618.09347,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,VA,Virginia,RES,residential,3680343,14.54,45243.21556,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,VT,Vermont,RES,residential,321228,22.14,2218.65934,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,UT,Utah,RES,residential,1248928,11.33,11708.07556,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,TX,Texas,RES,residential,12669660,14.94,168486.13714,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,TN,Tennessee,RES,residential,3086249,12.54,43805.19455,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,NE,Nebraska,RES,residential,918007,11.74,10384.57215,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,MT,Montana,RES,residential,562914,12.67,5742.79414,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,MO,Missouri,RES,residential,2893876,12.91,35758.05386,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,MS,Mississippi,RES,residential,1352980,13.29,18854.13367,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,SD,South Dakota,RES,residential,440490,13.03,5132.32347,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,SC,South Carolina,RES,residential,2597157,14.13,32476.20288,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,ID,Idaho,RES,residential,876507,11.54,9793.97358,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,HI,Hawaii,RES,residential,447400,42.72,2665.7282,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,GA,Georgia,RES,residential,4831967,14.14,61192.34988,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,FL,Florida,RES,residential,10502688,14.15,138337.75251,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,DC,District of Columbia,RES,residential,321677,17.72,2446.06187,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,DE,Delaware,RES,residential,473260,16.45,5178.33866,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,CT,Connecticut,RES,residential,1560866,28.76,12975.47104,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,CO,Colorado,RES,residential,2501738,15.06,20820.68388,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,CA,California,RES,residential,14362038,31.86,86123.50838,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,MN,Minnesota,RES,residential,2606781,15.42,22471.40724,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,MI,Michigan,RES,residential,4537622,19.29,33490.39173,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,AR,Arkansas,RES,residential,1485432,12.24,18689.16334,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,AZ,Arizona,RES,residential,3134535,14.95,40480.48465,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,AK,Alaska,RES,residential,301101,24.71,2077.92332,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,AL,Alabama,RES,residential,2409846,15.12,32817.18896,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,WY,Wyoming,RES,residential,288472,12.5,2986.40625,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,WI,Wisconsin,RES,residential,2865093,17.22,22135.24418,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,WV,West Virginia,RES,residential,867455,15.1,10679.04153,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,WA,Washington,RES,residential,3387200,11.9,38806.39457,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,NY,New York,RES,residential,7438177,24.37,51070.97536,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,NM,New Mexico,RES,residential,916902,14.37,7411.51947,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,NJ,New Jersey,RES,residential,3750476,19.38,29795.65766,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,NH,New Hampshire,RES,residential,654283,23.33,4848.53299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,NV,Nevada,RES,residential,1320716,15,14648.34765,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,MA,Massachusetts,RES,residential,3014288,29.35,20120.01316,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,MD,Maryland,RES,residential,2453603,17.88,27400.21263,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,ME,Maine,RES,residential,740635,23.89,4877.68884,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,LA,Louisiana,RES,residential,2160432,11.64,31452.14763,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,KY,Kentucky,RES,residential,2017739,12.98,26093.01925,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,KS,Kansas,RES,residential,1337775,14.22,14025.40017,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,IA,Iowa,RES,residential,1467320,13.55,14532.65695,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,IN,Indiana,RES,residential,3001538,14.84,33221.67193,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,IL,Illinois,RES,residential,5371352,15.92,45177.24321,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,RI,Rhode Island,RES,residential,459607,28.07,3130.43738,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,PA,Pennsylvania,RES,residential,5525582,17.79,54433.25442,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,OR,Oregon,RES,residential,1883053,14.63,19874.8273,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,OK,Oklahoma,RES,residential,1899130,12.24,24563.2406,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,OH,Ohio,RES,residential,5103505,16.07,52406.16913,number of customers,cents per kilowatt-hour,million kilowatt hours
+2024,ND,North Dakota,RES,residential,398751,11.49,4928.88493,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,NY,New York,RES,residential,7384444,22.24,50113.25801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,IN,Indiana,RES,residential,3018496,14.94,31739.24301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,IL,Illinois,RES,residential,5394659,15.71,43319.74702,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,ID,Idaho,RES,residential,845896,11.05,9793.265,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,HI,Hawaii,RES,residential,446203,42.39,2693.161,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,GA,Georgia,RES,residential,4703796,13.69,58412.499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,FL,Florida,RES,residential,10222476,15.21,135805.02199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,MI,Michigan,RES,residential,4496300,18.84,32533.71699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,MA,Massachusetts,RES,residential,2886203,29.61,19365.82499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,MD,Maryland,RES,residential,2432423,16.6,26107.722,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,ME,Maine,RES,residential,731969,27.42,4918.678,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,LA,Louisiana,RES,residential,2137199,11.55,31746.56999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,KY,Kentucky,RES,residential,2057705,12.65,24552.708,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,KS,Kansas,RES,residential,1306777,13.38,13815.43398,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,IA,Iowa,RES,residential,1436037,13.31,14581.84499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,NM,New Mexico,RES,residential,928216,13.85,7336.27702,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,NJ,New Jersey,RES,residential,3702963,17.7,28414.87101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,NH,New Hampshire,RES,residential,647007,28.15,4654.97799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,NV,Nevada,RES,residential,1288498,16.67,13508.82,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,NE,Nebraska,RES,residential,893123,11.2,10670.54998,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,MT,Montana,RES,residential,549248,12.54,5755.52201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,MO,Missouri,RES,residential,2906438,12.58,34964.573,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,MS,Mississippi,RES,residential,1335278,13.23,18544.19,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,MN,Minnesota,RES,residential,2551574,14.73,23023.27501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,WY,Wyoming,RES,residential,283729,11.46,2947.863,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,WI,Wisconsin,RES,residential,2813580,16.88,22218.86098,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,WV,West Virginia,RES,residential,864768,14.05,10233.82399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,WA,Washington,RES,residential,3319836,10.98,38940.142,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,VA,Virginia,RES,residential,3615939,14.26,43095.83801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,VT,Vermont,RES,residential,322405,20.82,2176.314,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,DC,District of Columbia,RES,residential,312982,16.45,2371.637,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,DE,Delaware,RES,residential,468358,15.73,4931.847,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,CT,Connecticut,RES,residential,1541895,29.88,12553.29899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,CO,Colorado,RES,residential,2517452,14.3,19999.33299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,CA,California,RES,residential,14063972,29.51,82820.89801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,AR,Arkansas,RES,residential,1459802,12.25,18373.97099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,AZ,Arizona,RES,residential,3068552,14.02,38992.365,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,AK,Alaska,RES,residential,296192,23.9,2050.667,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,AL,Alabama,RES,residential,2353274,14.63,31409.652,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,UT,Utah,RES,residential,1244066,11.2,11328.26401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,TX,Texas,RES,residential,12257008,14.46,168610.87498,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,TN,Tennessee,RES,residential,3106778,12.19,41350.56699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,SD,South Dakota,RES,residential,426548,12.32,5245.819,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,SC,South Carolina,RES,residential,2518272,13.68,30898.32901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,RI,Rhode Island,RES,residential,450190,27.02,2995.162,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,PA,Pennsylvania,RES,residential,5516157,18.1,52327.64301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,OR,Oregon,RES,residential,1843683,12.73,20444.54399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,OK,Oklahoma,RES,residential,1857151,12.08,23817.506,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,OH,Ohio,RES,residential,5110814,15.38,49713.53801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,ND,North Dakota,RES,residential,395002,11.01,5067.156,number of customers,cents per kilowatt-hour,million kilowatt hours
+2023,NC,North Carolina,RES,residential,4951380,12.93,58737.51997,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,AL,Alabama,RES,residential,2329559,14.25,32923.57299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,OR,Oregon,RES,residential,1826286,11.42,20725.899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,OK,Oklahoma,RES,residential,1839083,12.44,25479.14402,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,OH,Ohio,RES,residential,5082414,13.85,53312.216,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,ND,North Dakota,RES,residential,392470,10.92,5271.904,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,NC,North Carolina,RES,residential,4855658,11.62,62443.95303,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,WY,Wyoming,RES,residential,281464,11.09,3008.68001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,NY,New York,RES,residential,7346236,22.08,52227.41299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,NM,New Mexico,RES,residential,921109,13.84,7282.636,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,WI,Wisconsin,RES,residential,2786457,15.62,22887.92805,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,WV,West Virginia,RES,residential,863905,13.23,11136.97,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,WA,Washington,RES,residential,3273505,10.26,39775.84899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,VA,Virginia,RES,residential,3583371,13.34,46717.547,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,NJ,New Jersey,RES,residential,3675569,16.74,30062.192,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,VT,Vermont,RES,residential,320849,19.93,2186.66701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,UT,Utah,RES,residential,1207878,10.84,11344.26499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,TX,Texas,RES,residential,12063147,13.76,170596.46002,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,TN,Tennessee,RES,residential,3058391,12.25,43603.987,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,SD,South Dakota,RES,residential,419358,12.09,5322.906,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,SC,South Carolina,RES,residential,2472265,13.59,32287.075,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,RI,Rhode Island,RES,residential,448184,23.21,3168.339,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,PA,Pennsylvania,RES,residential,5504325,15.94,56413.21816,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,NH,New Hampshire,RES,residential,642870,25.46,4808.32201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,NV,Nevada,RES,residential,1270155,13.78,14306.529,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,NE,Nebraska,RES,residential,877619,10.79,10983.64901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,MT,Montana,RES,residential,540745,11.33,5894.49901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,MO,Missouri,RES,residential,2882259,11.74,37244.97003,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,MS,Mississippi,RES,residential,1329184,12.41,18917.877,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,MN,Minnesota,RES,residential,2523110,14.25,23418.31302,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,MI,Michigan,RES,residential,4475317,17.86,35034.97101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,MA,Massachusetts,RES,residential,2888583,25.97,20006.891,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,MD,Maryland,RES,residential,2415655,14.46,28065.37901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,ME,Maine,RES,residential,728053,22.44,5090.87401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,LA,Louisiana,RES,residential,2128425,12.93,31444.70799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,KY,Kentucky,RES,residential,2045252,12.91,26840.18599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,KS,Kansas,RES,residential,1297400,13.99,14443.52202,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,IA,Iowa,RES,residential,1426164,13.15,15192.859,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,IN,Indiana,RES,residential,2988151,14.59,34058.49798,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,IL,Illinois,RES,residential,5376734,15.65,46479.195,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,ID,Idaho,RES,residential,826329,10.37,9963.65301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,HI,Hawaii,RES,residential,444854,43.03,2748.47901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,GA,Georgia,RES,residential,4648898,13.8,61140.241,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,FL,Florida,RES,residential,10066753,13.9,134245.97501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,DC,District of Columbia,RES,residential,306464,14.18,2519.079,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,DE,Delaware,RES,residential,461484,13.71,5210.069,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,CT,Connecticut,RES,residential,1536217,24.61,13190.687,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,CO,Colorado,RES,residential,2480555,14.19,20593.94201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,CA,California,RES,residential,13942174,25.84,89542.20798,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,AR,Arkansas,RES,residential,1445528,12.05,19250.66101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,AZ,Arizona,RES,residential,3013393,13.02,38367.633,number of customers,cents per kilowatt-hour,million kilowatt hours
+2022,AK,Alaska,RES,residential,294370,23.1,2050.472,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,IL,Illinois,RES,residential,5361717,13.18,46813.06799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,WY,Wyoming,RES,residential,278599,11.17,2897.498,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,WI,Wisconsin,RES,residential,2761990,14.52,22864.04701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,WV,West Virginia,RES,residential,863647,12.15,11050.705,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,WA,Washington,RES,residential,3220813,10.11,38021.233,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,SD,South Dakota,RES,residential,412657,12.22,5043.96402,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,UT,Utah,RES,residential,1176949,10.43,10950.41501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,TX,Texas,RES,residential,11815251,12.11,155075.13599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,TN,Tennessee,RES,residential,3016642,11.07,42840.44199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,VA,Virginia,RES,residential,3551532,11.96,46634.411,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,VT,Vermont,RES,residential,319444,19.26,2174.48902,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,CT,Connecticut,RES,residential,1530251,21.91,13092.128,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,MT,Montana,RES,residential,531398,11.22,5559.44601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,MO,Missouri,RES,residential,2861933,11.41,35668.40901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,NV,Nevada,RES,residential,1249392,11.49,14373.357,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,NE,Nebraska,RES,residential,869656,10.75,10492.369,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,OR,Oregon,RES,residential,1805684,11.37,20285.346,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,OK,Oklahoma,RES,residential,1818813,11,23745.86701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,PA,Pennsylvania,RES,residential,5477367,13.76,55945.17598,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,NJ,New Jersey,RES,residential,3648914,16.35,30090.371,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,NH,New Hampshire,RES,residential,638267,19.85,4831.911,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,DE,Delaware,RES,residential,453758,12.52,5170.38,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,DC,District of Columbia,RES,residential,298337,13.09,2528.049,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,AZ,Arizona,RES,residential,2953823,12.54,37130.339,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,AK,Alaska,RES,residential,292451,22.55,2083.91101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,AL,Alabama,RES,residential,2308226,12.96,31585.153,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,CO,Colorado,RES,residential,2443109,13.07,20625.00501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,CA,California,RES,residential,13883994,22.82,90284.143,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,AR,Arkansas,RES,residential,1436246,11.27,18918.015,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,SC,South Carolina,RES,residential,2426703,12.86,31385.79599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,RI,Rhode Island,RES,residential,446320,22.3,3131.533,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,NC,North Carolina,RES,residential,4774592,11.32,60914.68399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,NY,New York,RES,residential,7256212,19.48,52156.88199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,NM,New Mexico,RES,residential,914495,13.52,7088.358,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,OH,Ohio,RES,residential,5041904,12.77,53171.19298,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,ND,North Dakota,RES,residential,391340,10.85,4888.401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,MS,Mississippi,RES,residential,1321576,11.56,18569.936,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,ID,Idaho,RES,residential,806421,10.16,9300.843,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,HI,Hawaii,RES,residential,443535,33.49,2825.08201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,GA,Georgia,RES,residential,4560653,12.51,58684.96201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,FL,Florida,RES,residential,9917113,11.9,130412.464,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,MI,Michigan,RES,residential,4458038,17.54,35868.09999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,MA,Massachusetts,RES,residential,2840311,22.89,20305.269,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,MN,Minnesota,RES,residential,2496406,13.5,23246.05498,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,MD,Maryland,RES,residential,2395954,13.12,27964.54501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,ME,Maine,RES,residential,722038,17.02,5062.266,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,LA,Louisiana,RES,residential,2126155,11.02,30408.22401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,IA,Iowa,RES,residential,1417424,12.73,14651.755,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,IN,Indiana,RES,residential,2948803,13.37,33471.97,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,KY,Kentucky,RES,residential,2032575,11.5,26434.371,number of customers,cents per kilowatt-hour,million kilowatt hours
+2021,KS,Kansas,RES,residential,1289344,12.98,13769.41001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,RI,Rhode Island,RES,residential,441573,22.01,3148.021,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,AK,Alaska,RES,residential,315208,22.57,2089.04601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,AL,Alabama,RES,residential,2280741,12.57,31331.04101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,MN,Minnesota,RES,residential,2464753,13.17,22935.67203,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,NH,New Hampshire,RES,residential,633234,19.04,4790.374,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,NV,Nevada,RES,residential,1226566,11.34,14321.60701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,NE,Nebraska,RES,residential,864842,10.8,10514.944,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,MT,Montana,RES,residential,522382,11.24,5379.96501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,MO,Missouri,RES,residential,2833918,11.22,34950.36999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,MS,Mississippi,RES,residential,1308149,11.17,17994.83299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,ID,Idaho,RES,residential,782559,9.95,8970.75099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,HI,Hawaii,RES,residential,442002,30.28,2849.114,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,OH,Ohio,RES,residential,5014959,12.29,52552.76998,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,ND,North Dakota,RES,residential,387506,10.44,5046.55099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,NC,North Carolina,RES,residential,4695096,11.38,58641.572,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,NY,New York,RES,residential,7239162,18.36,52257.14399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,NM,New Mexico,RES,residential,905885,12.94,7282.07899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,NJ,New Jersey,RES,residential,3618587,16.03,29676.857,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,CA,California,RES,residential,13834719,20.45,94934.56301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,PA,Pennsylvania,RES,residential,5448109,13.58,55307.093,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,OR,Oregon,RES,residential,1785131,11.17,19628.011,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,OK,Oklahoma,RES,residential,1795629,10.12,23232.47299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,MI,Michigan,RES,residential,4423595,16.26,35862.91179,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,MA,Massachusetts,RES,residential,2817549,21.97,20345.178,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,MD,Maryland,RES,residential,2376983,13.01,27306.375,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,DE,Delaware,RES,residential,446276,12.56,4991.134,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,CT,Connecticut,RES,residential,1521112,22.71,12981.839,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,CO,Colorado,RES,residential,2400357,12.36,20482.50199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,GA,Georgia,RES,residential,4487431,12.02,58220.28,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,FL,Florida,RES,residential,9731237,11.27,133298.86899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,DC,District of Columbia,RES,residential,290466,12.63,2452.589,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,WA,Washington,RES,residential,3168238,9.87,36858.798,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,VA,Virginia,RES,residential,3506844,12.03,46088.846,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,VT,Vermont,RES,residential,316948,19.54,2157.001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,UT,Utah,RES,residential,1143136,10.44,10546.793,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,TX,Texas,RES,residential,11515333,11.71,156414.81901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,TN,Tennessee,RES,residential,2930482,10.76,41084.91099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,SD,South Dakota,RES,residential,407532,11.75,5070.024,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,SC,South Carolina,RES,residential,2377020,12.78,30826.01699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,WY,Wyoming,RES,residential,276029,11.11,2879.528,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,WI,Wisconsin,RES,residential,2742424,14.32,22846.73402,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,WV,West Virginia,RES,residential,862279,11.8,10877.499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,IL,Illinois,RES,residential,5339610,13.04,46170.538,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,LA,Louisiana,RES,residential,2112928,9.67,30440.74601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,KY,Kentucky,RES,residential,2013910,10.87,25935.09601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,KS,Kansas,RES,residential,1282532,12.85,13592.444,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,IA,Iowa,RES,residential,1403386,12.46,14567.48298,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,IN,Indiana,RES,residential,2920266,12.83,32878.35501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,ME,Maine,RES,residential,717559,16.81,4905.263,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,AR,Arkansas,RES,residential,1413490,10.41,17980.20601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2020,AZ,Arizona,RES,residential,2896339,12.27,38707.41601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,ME,Maine,RES,residential,710869,17.89,4793.80901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,VA,Virginia,RES,residential,3464677,12.07,46666.163,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,VT,Vermont,RES,residential,316180,17.71,2081.545,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,UT,Utah,RES,residential,1116145,10.4,9739.52499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,TX,Texas,RES,residential,11366639,11.76,155481.34201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,TN,Tennessee,RES,residential,2914916,10.87,42573.18301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,SD,South Dakota,RES,residential,403717,11.55,5057.032,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,SC,South Carolina,RES,residential,2330903,12.99,31159.957,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,RI,Rhode Island,RES,residential,444216,21.73,2983.012,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,PA,Pennsylvania,RES,residential,5418870,13.8,54396.18199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,AK,Alaska,RES,residential,289290,22.92,1928.20802,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,AL,Alabama,RES,residential,2249425,12.53,32415.646,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,CA,California,RES,residential,13707126,19.15,87523.98701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,AR,Arkansas,RES,residential,1396870,9.8,18732.31599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,AZ,Arizona,RES,residential,2853183,12.43,34720.05001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,WY,Wyoming,RES,residential,274881,11.18,2849.37801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,WI,Wisconsin,RES,residential,2720287,14.18,21995.36,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,WV,West Virginia,RES,residential,857666,11.25,11153.219,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,WA,Washington,RES,residential,3126192,9.71,36512.424,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,LA,Louisiana,RES,residential,2095466,9.8,30986.02401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,KY,Kentucky,RES,residential,1991137,10.8,26573.076,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,KS,Kansas,RES,residential,1274955,12.71,13630.66099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,IA,Iowa,RES,residential,1392979,12.46,14494.82101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,IN,Indiana,RES,residential,2887031,12.58,33249.23401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,IL,Illinois,RES,residential,5314522,13.03,45220.25799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,ID,Idaho,RES,residential,763841,9.89,8696.843,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,HI,Hawaii,RES,residential,438352,32.06,2759.77401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,GA,Georgia,RES,residential,4411521,11.76,59331.49099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,FL,Florida,RES,residential,9565846,11.7,127181.55101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,DC,District of Columbia,RES,residential,282277,12.98,2546.92,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,DE,Delaware,RES,residential,439167,12.55,5004.131,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,CT,Connecticut,RES,residential,1510966,21.87,12493.55,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,CO,Colorado,RES,residential,2370164,12.18,19404.743,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,OR,Oregon,RES,residential,1763783,11.01,19286.182,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,OK,Oklahoma,RES,residential,1777156,10.21,23805.972,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,OH,Ohio,RES,residential,4980931,12.38,52226.09701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,ND,North Dakota,RES,residential,385038,10.3,5125.431,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,NC,North Carolina,RES,residential,4620856,11.42,59852.793,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,NY,New York,RES,residential,7235400,17.94,50141.00301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,NM,New Mexico,RES,residential,895086,12.51,6871.561,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,NJ,New Jersey,RES,residential,3596834,15.85,28612.555,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,NH,New Hampshire,RES,residential,627257,20.05,4506.83,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,NV,Nevada,RES,residential,1204996,12,12867.637,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,NE,Nebraska,RES,residential,855619,10.77,10307.90498,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,MT,Montana,RES,residential,516052,11.13,5308.103,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,MO,Missouri,RES,residential,2811863,11.14,35691.42598,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,MS,Mississippi,RES,residential,1293419,11.27,18717.85801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,MN,Minnesota,RES,residential,2446111,13.04,22288.152,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,MI,Michigan,RES,residential,4384305,15.74,33495.725,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,MA,Massachusetts,RES,residential,2802099,21.92,19314.571,number of customers,cents per kilowatt-hour,million kilowatt hours
+2019,MD,Maryland,RES,residential,2352535,13.12,27533.69299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,KS,Kansas,RES,residential,1266044,13.35,14187.19201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,WY,Wyoming,RES,residential,272427,11.29,2748.356,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,WI,Wisconsin,RES,residential,2700245,14.02,22441.335,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,WV,West Virginia,RES,residential,859039,11.18,11679.455,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,WA,Washington,RES,residential,3076868,9.75,35338.97799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,VA,Virginia,RES,residential,3431574,11.73,47962.60602,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,CT,Connecticut,RES,residential,1503701,21.2,13061.372,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,AL,Alabama,RES,residential,2229472,12.18,33080.38001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,VT,Vermont,RES,residential,315138,18.02,2116.045,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,UT,Utah,RES,residential,1091162,10.41,9714.50701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,TX,Texas,RES,residential,11148784,11.2,157267.91301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,TN,Tennessee,RES,residential,2882992,10.71,44381.95701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,SD,South Dakota,RES,residential,400150,11.59,5018.36,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,SC,South Carolina,RES,residential,2290200,12.44,31852.419,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,RI,Rhode Island,RES,residential,442005,20.55,3124.168,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,GA,Georgia,RES,residential,4354021,11.47,59689.10598,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,FL,Florida,RES,residential,9423022,11.54,125528.047,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,DC,District of Columbia,RES,residential,274613,12.84,2592.242,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,ID,Idaho,RES,residential,743567,10.15,8427.57799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,HI,Hawaii,RES,residential,436266,32.47,2710.698,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,DE,Delaware,RES,residential,432449,12.53,5070.175,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,AR,Arkansas,RES,residential,1388358,9.81,19259.20399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,AZ,Arizona,RES,residential,2808352,12.77,34660.297,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,AK,Alaska,RES,residential,287526,21.94,1974.90599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,CO,Colorado,RES,residential,2326976,12.15,19286.95201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,CA,California,RES,residential,13591152,18.84,89099.98498,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,MI,Michigan,RES,residential,4365529,15.45,35131.42201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,MA,Massachusetts,RES,residential,2784243,21.61,20284.67401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,MD,Maryland,RES,residential,2332517,13.3,28138.474,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,ME,Maine,RES,residential,709848,16.84,4872.001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,LA,Louisiana,RES,residential,2085055,9.59,32065.538,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,KY,Kentucky,RES,residential,1980209,10.6,27712.72198,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,MS,Mississippi,RES,residential,1290281,11.12,19310.52699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,PA,Pennsylvania,RES,residential,5390428,13.89,55896.453,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,OR,Oregon,RES,residential,1750240,10.98,18930.583,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,OK,Oklahoma,RES,residential,1764980,10.3,24116.80799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,OH,Ohio,RES,residential,4964855,12.56,54451.71399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,ND,North Dakota,RES,residential,382596,10.25,5133.171,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,MN,Minnesota,RES,residential,2420325,13.14,22837.14002,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,NC,North Carolina,RES,residential,4550420,11.09,61622.45401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,NY,New York,RES,residential,7190906,18.52,52153.24599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,NM,New Mexico,RES,residential,889841,12.68,6826.442,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,NJ,New Jersey,RES,residential,3568044,15.41,29530.689,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,NH,New Hampshire,RES,residential,622671,19.69,4641.01299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,NV,Nevada,RES,residential,1183660,11.85,13449.743,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,NE,Nebraska,RES,residential,849898,10.7,10412.008,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,MT,Montana,RES,residential,509526,10.96,5197.68599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,MO,Missouri,RES,residential,2792459,11.34,37463.39001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,IA,Iowa,RES,residential,1385756,12.24,14840.34901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,IN,Indiana,RES,residential,2863358,12.26,34574.66399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2018,IL,Illinois,RES,residential,5289573,12.77,47225.915,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,DC,District of Columbia,RES,residential,267448,12.94,2394.652,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,CA,California,RES,residential,13548295,18.31,90123.505,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,AR,Arkansas,RES,residential,1380157,10.28,17026.779,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,TN,Tennessee,RES,residential,2847696,10.72,39292.52799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,SD,South Dakota,RES,residential,396564,11.77,4652.89,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,SC,South Carolina,RES,residential,2251558,13.02,29224.97099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,RI,Rhode Island,RES,residential,437124,18.32,3028.267,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,PA,Pennsylvania,RES,residential,5356693,14.23,51724.49799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,OR,Oregon,RES,residential,1725884,10.66,20065.93001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,OK,Oklahoma,RES,residential,1751034,10.61,21837.596,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,AL,Alabama,RES,residential,2213592,12.55,30181.04502,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,OH,Ohio,RES,residential,4936471,12.63,49795.54001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,ND,North Dakota,RES,residential,380101,10.29,4848.305,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,NC,North Carolina,RES,residential,4488039,10.94,56133.96001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,VA,Virginia,RES,residential,3398529,11.55,43982.44001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,VT,Vermont,RES,residential,313670,17.68,2023.424,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,UT,Utah,RES,residential,1063292,10.95,9510.78301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,TX,Texas,RES,residential,10809494,11.01,144242.13103,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,NY,New York,RES,residential,7144413,18.03,49080.75702,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,NM,New Mexico,RES,residential,880867,12.88,6497.20699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,NJ,New Jersey,RES,residential,3536087,15.65,27761.87899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,NH,New Hampshire,RES,residential,618356,19.2,4441.497,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,NV,Nevada,RES,residential,1263101,11.99,12936.791,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,NE,Nebraska,RES,residential,841965,10.97,9667.99,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,MT,Montana,RES,residential,503313,10.95,5224.58802,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,MO,Missouri,RES,residential,2771123,11.63,33051.07999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,MS,Mississippi,RES,residential,1284578,11.08,17444.01601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,MN,Minnesota,RES,residential,2403168,13.04,21573.80001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,WY,Wyoming,RES,residential,270576,11.37,2772.371,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,WI,Wisconsin,RES,residential,2681341,14.35,21233.15399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,WV,West Virginia,RES,residential,858961,11.63,10573.46301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,WA,Washington,RES,residential,3037674,9.66,37282.901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,MI,Michigan,RES,residential,4344321,15.4,32977.374,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,DE,Delaware,RES,residential,426071,13.35,4662.598,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,CT,Connecticut,RES,residential,1495577,20.29,12379.52,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,CO,Colorado,RES,residential,2288358,12.17,18614.99999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,AZ,Arizona,RES,residential,2764355,12.44,34251.22,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,AK,Alaska,RES,residential,285697,21.27,2060.34901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,MA,Massachusetts,RES,residential,2766154,20.06,19337.799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,MD,Maryland,RES,residential,2313189,13.96,26084.176,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,ME,Maine,RES,residential,707792,15.97,4638.535,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,LA,Louisiana,RES,residential,2073615,9.74,29531.96,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,KY,Kentucky,RES,residential,1971002,10.85,24882.58198,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,KS,Kansas,RES,residential,1259226,13.31,13013.42199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,IA,Iowa,RES,residential,1375599,12.34,13721.86899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,IN,Indiana,RES,residential,2834090,12.29,31551.55801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,IL,Illinois,RES,residential,5264333,12.95,43717.39101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,ID,Idaho,RES,residential,727568,10.04,8727.901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,HI,Hawaii,RES,residential,432952,29.5,2629.67901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,GA,Georgia,RES,residential,4296977,11.9,54771.44901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2017,FL,Florida,RES,residential,9291707,11.61,121462.62201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,MO,Missouri,RES,residential,2751460,11.21,34354.932,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,AR,Arkansas,RES,residential,1368867,9.92,17784.23301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,AZ,Arizona,RES,residential,2725510,12.15,33690.78301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,MS,Mississippi,RES,residential,1278616,10.47,18458.928,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,MN,Minnesota,RES,residential,2378681,12.67,21803.79099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,WY,Wyoming,RES,residential,269647,11.13,2751.073,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,WI,Wisconsin,RES,residential,2662284,14.07,21814.24899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,WV,West Virginia,RES,residential,860375,11.44,11375.581,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,WA,Washington,RES,residential,2985799,9.48,34211.748,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,VA,Virginia,RES,residential,3362985,11.36,45186.057,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,VT,Vermont,RES,residential,312239,17.37,2056.402,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,UT,Utah,RES,residential,1041823,11.02,9370.65604,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,TX,Texas,RES,residential,10521732,10.99,145973.18092,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,TN,Tennessee,RES,residential,2812287,10.41,41773.88801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,SD,South Dakota,RES,residential,392187,11.47,4618.72401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,AK,Alaska,RES,residential,283260,20.3,2006.39202,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,AL,Alabama,RES,residential,2200574,11.99,32055.54599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,MI,Michigan,RES,residential,4311008,15.22,34543.262,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,MA,Massachusetts,RES,residential,2740865,19,19692.89599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,MD,Maryland,RES,residential,2288301,14.23,27316.87102,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,ME,Maine,RES,residential,699321,15.83,4585.82499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,LA,Louisiana,RES,residential,2059699,9.34,30650.067,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,KY,Kentucky,RES,residential,1957188,10.49,26338.43699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,KS,Kansas,RES,residential,1252846,13.06,13509.235,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,IA,Iowa,RES,residential,1358902,11.94,14093.67801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,IN,Indiana,RES,residential,2821546,11.79,33025.95499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,IL,Illinois,RES,residential,5231541,12.54,45990.052,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,ID,Idaho,RES,residential,714365,9.95,8172.02199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,HI,Hawaii,RES,residential,430941,27.47,2611.727,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,GA,Georgia,RES,residential,4240421,11.5,57889.37899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,FL,Florida,RES,residential,9149214,10.98,123320.547,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,DC,District of Columbia,RES,residential,259392,12.29,2501.892,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,DE,Delaware,RES,residential,419234,13.42,4763.106,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,CT,Connecticut,RES,residential,1486741,20.01,12676.983,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,CO,Colorado,RES,residential,2260068,12.07,18833.722,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,CA,California,RES,residential,13445133,17.39,88311.06899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,SC,South Carolina,RES,residential,2209783,12.65,30615.59599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,RI,Rhode Island,RES,residential,438507,18.62,3081.56201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,PA,Pennsylvania,RES,residential,5335555,13.86,53877.12999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,OR,Oregon,RES,residential,1706622,10.66,18573.242,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,OK,Oklahoma,RES,residential,1736819,10.2,22789.71499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,OH,Ohio,RES,residential,4911597,12.47,52524.14102,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,ND,North Dakota,RES,residential,377739,10.16,4741.298,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,NC,North Carolina,RES,residential,4423532,11.03,58456.809,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,NY,New York,RES,residential,7118901,17.58,50831.28701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,NM,New Mexico,RES,residential,876921,12.03,6642.51101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,NJ,New Jersey,RES,residential,3510141,15.72,29090.726,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,NH,New Hampshire,RES,residential,612716,18.38,4438.407,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,NV,Nevada,RES,residential,1143667,11.41,12691.94201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,NE,Nebraska,RES,residential,834038,10.84,9738.35101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2016,MT,Montana,RES,residential,497170,10.94,4852.547,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,VA,Virginia,RES,residential,,11.37,45928.411,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,CO,Colorado,RES,residential,,12.12,18384.93601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,CA,California,RES,residential,,16.99,89386.373,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,MS,Mississippi,RES,residential,,11.27,18561.101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,MN,Minnesota,RES,residential,,12.12,21713.96995,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,MI,Michigan,RES,residential,,14.42,33357.87601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,MA,Massachusetts,RES,residential,,19.83,20175.317,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,MD,Maryland,RES,residential,,13.82,27403.33601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,ME,Maine,RES,residential,,15.61,4662.301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,LA,Louisiana,RES,residential,,9.33,31545.313,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,WY,Wyoming,RES,residential,,10.97,2676.702,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,UT,Utah,RES,residential,,10.88,9117.15299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,TX,Texas,RES,residential,,11.56,145651.91301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,TN,Tennessee,RES,residential,,10.3,41667.41099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,SD,South Dakota,RES,residential,,11.08,4571.325,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,SC,South Carolina,RES,residential,,12.57,30059.188,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,NC,North Carolina,RES,residential,,11.28,57901.55699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,DC,District of Columbia,RES,residential,,12.99,2497.559,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,VT,Vermont,RES,residential,,17.09,2088.94,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,DE,Delaware,RES,residential,,13.42,4848.998,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,CT,Connecticut,RES,residential,,20.94,12892.862,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,FL,Florida,RES,residential,,11.58,122759.47199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,RI,Rhode Island,RES,residential,,19.29,3135.506,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,PA,Pennsylvania,RES,residential,,13.64,54418.663,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,OR,Oregon,RES,residential,,10.66,18269.00699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,OK,Oklahoma,RES,residential,,10.14,22615.82399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,OH,Ohio,RES,residential,,12.8,51492.95398,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,AZ,Arizona,RES,residential,,12.13,33167.205,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,AK,Alaska,RES,residential,,19.83,2044.18401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,IN,Indiana,RES,residential,,11.57,32441.69301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,NY,New York,RES,residential,,18.54,51012.74501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,NM,New Mexico,RES,residential,,12.47,6641.72401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,NJ,New Jersey,RES,residential,,15.81,29142.283,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,NH,New Hampshire,RES,residential,,18.5,4526.948,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,NV,Nevada,RES,residential,,12.76,12338.538,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,NE,Nebraska,RES,residential,,10.6,9532.13195,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,KS,Kansas,RES,residential,,12.34,13241.68201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,IA,Iowa,RES,residential,,11.63,13786.32791,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,IL,Illinois,RES,residential,,12.5,44645.638,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,ID,Idaho,RES,residential,,9.93,8054.693,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,HI,Hawaii,RES,residential,,29.6,2641.336,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,GA,Georgia,RES,residential,,11.54,56421.65,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,ND,North Dakota,RES,residential,,9.62,4862.542,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,AL,Alabama,RES,residential,,11.7,31908.53,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,MT,Montana,RES,residential,,10.88,4825.21302,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,MO,Missouri,RES,residential,,11.21,33911.75999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,KY,Kentucky,RES,residential,,10.24,26168.09299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,AR,Arkansas,RES,residential,,9.82,18273.389,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,WI,Wisconsin,RES,residential,,14.11,21214.78696,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,WV,West Virginia,RES,residential,,10.08,11437.451,number of customers,cents per kilowatt-hour,million kilowatt hours
+2015,WA,Washington,RES,residential,,9.09,34071.98699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,CA,California,RES,residential,,16.25,89360.68,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,IA,Iowa,RES,residential,,11.16,14426.58197,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,IN,Indiana,RES,residential,,11.46,33703.965,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,IL,Illinois,RES,residential,,11.91,46009.45799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,ID,Idaho,RES,residential,,9.72,8134.91301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,HI,Hawaii,RES,residential,,37.04,2583.77,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,GA,Georgia,RES,residential,,11.65,57167.387,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,FL,Florida,RES,residential,,11.89,116535.263,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,SD,South Dakota,RES,residential,,10.47,4827.36801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,SC,South Carolina,RES,residential,,12.45,30715.986,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,RI,Rhode Island,RES,residential,,17.17,3070.347,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,NY,New York,RES,residential,,20.07,49974.914,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,NM,New Mexico,RES,residential,,12.28,6611.97001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,NJ,New Jersey,RES,residential,,15.78,27892.58201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,NH,New Hampshire,RES,residential,,17.53,4510.487,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,PA,Pennsylvania,RES,residential,,13.32,54195.33501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,OR,Oregon,RES,residential,,10.47,18617.61301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,OK,Oklahoma,RES,residential,,10.03,23351.14401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,OH,Ohio,RES,residential,,12.5,52804.33401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,ND,North Dakota,RES,residential,,9.15,5357.51401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,NC,North Carolina,RES,residential,,11.1,58649.99399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,DC,District of Columbia,RES,residential,,12.74,2072.205,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,DE,Delaware,RES,residential,,13.29,4644.841,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,NV,Nevada,RES,residential,,12.93,11916.521,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,NE,Nebraska,RES,residential,,10.4,10028.238,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,MT,Montana,RES,residential,,10.18,4969.243,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,MO,Missouri,RES,residential,,10.64,35792.64397,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,MS,Mississippi,RES,residential,,11.32,18922.09699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,MN,Minnesota,RES,residential,,12.01,22791.466,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,LA,Louisiana,RES,residential,,9.57,31400.68301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,KY,Kentucky,RES,residential,,10.16,27399.76799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,KS,Kansas,RES,residential,,12.17,13684.95203,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,MI,Michigan,RES,residential,,14.46,33514.991,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,MA,Massachusetts,RES,residential,,17.39,20071.15999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,MD,Maryland,RES,residential,,13.63,27487.63301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,ME,Maine,RES,residential,,15.27,4660.605,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,WY,Wyoming,RES,residential,,10.5,2752.31302,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,WI,Wisconsin,RES,residential,,13.67,21925.712,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,WV,West Virginia,RES,residential,,9.34,11990.728,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,CT,Connecticut,RES,residential,,19.75,12777.579,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,CO,Colorado,RES,residential,,12.18,18092.93201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,WA,Washington,RES,residential,,8.67,35082.95799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,VA,Virginia,RES,residential,,11.1,46443.716,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,VT,Vermont,RES,residential,,17.47,2121.347,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,AR,Arkansas,RES,residential,,9.51,18441.11901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,AZ,Arizona,RES,residential,,11.9,32346.07899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,AL,Alabama,RES,residential,,11.48,32929.598,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,UT,Utah,RES,residential,,10.65,8963.971,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,TX,Texas,RES,residential,,11.86,140899.744,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,TN,Tennessee,RES,residential,,10.32,42538.24799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2014,AK,Alaska,RES,residential,,19.14,2043.61399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,OR,Oregon,RES,residential,,9.9,19328.55801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,MA,Massachusetts,RES,residential,,15.83,20727.624,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,WY,Wyoming,RES,residential,,10.16,2829.496,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,MI,Michigan,RES,residential,,14.59,34013.168,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,MN,Minnesota,RES,residential,,11.81,22849.542,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,ID,Idaho,RES,residential,,9.32,8619.262,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,HI,Hawaii,RES,residential,,36.98,2608.853,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,GA,Georgia,RES,residential,,11.46,53544.411,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,MS,Mississippi,RES,residential,,10.78,18462.41499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,NY,New York,RES,residential,,18.79,50777.369,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,NM,New Mexico,RES,residential,,11.68,6803.987,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,ME,Maine,RES,residential,,14.35,4662.303,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,NJ,New Jersey,RES,residential,,15.73,28544.638,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,NH,New Hampshire,RES,residential,,16.33,4553.871,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,NV,Nevada,RES,residential,,11.89,12142.43101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,NE,Nebraska,RES,residential,,10.31,10062.159,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,MT,Montana,RES,residential,,10.33,4926.471,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,MO,Missouri,RES,residential,,10.6,35318.20399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,MD,Maryland,RES,residential,,13.25,27448.367,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,WI,Wisconsin,RES,residential,,13.55,22095.92199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,WV,West Virginia,RES,residential,,9.52,11581.825,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,WA,Washington,RES,residential,,8.7,35983.48598,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,CA,California,RES,residential,,16.23,89241.93399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,VA,Virginia,RES,residential,,10.84,45416.25301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,VT,Vermont,RES,residential,,17.14,2125.435,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,IA,Iowa,RES,residential,,11.04,14625.86599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,IN,Indiana,RES,residential,,10.99,33406.62999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,IL,Illinois,RES,residential,,10.63,46372.234,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,UT,Utah,RES,residential,,10.37,9401.748,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,TX,Texas,RES,residential,,11.35,140272.60703,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,TN,Tennessee,RES,residential,,9.98,40905.92399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,SD,South Dakota,RES,residential,,10.26,4824.14999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,OK,Oklahoma,RES,residential,,9.67,23199.96799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,OH,Ohio,RES,residential,,12.01,52158.09399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,ND,North Dakota,RES,residential,,9.12,5038.846,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,NC,North Carolina,RES,residential,,10.97,56251.297,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,AL,Alabama,RES,residential,,11.26,31378.65902,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,LA,Louisiana,RES,residential,,9.43,30709.206,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,KY,Kentucky,RES,residential,,9.79,26788.09799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,KS,Kansas,RES,residential,,11.64,13593.00302,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,DE,Delaware,RES,residential,,12.95,4570.013,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,FL,Florida,RES,residential,,11.27,113293.91298,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,DC,District of Columbia,RES,residential,,12.57,2033.618,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,CT,Connecticut,RES,residential,,17.55,13135.451,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,CO,Colorado,RES,residential,,11.93,18528.908,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,AR,Arkansas,RES,residential,,9.59,18219.287,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,AZ,Arizona,RES,residential,,11.71,33103.60201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,AK,Alaska,RES,residential,,18.12,2103.96601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,SC,South Carolina,RES,residential,,11.99,28812.51799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,RI,Rhode Island,RES,residential,,15.2,3164.692,number of customers,cents per kilowatt-hour,million kilowatt hours
+2013,PA,Pennsylvania,RES,residential,,12.79,54251.847,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,OH,Ohio,RES,residential,,11.76,52287.76902,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,CA,California,RES,residential,,15.34,90109.99501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,AR,Arkansas,RES,residential,,9.3,17909.30099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,AZ,Arizona,RES,residential,,11.29,32922.97001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,AK,Alaska,RES,residential,,17.88,2160.19598,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,AL,Alabama,RES,residential,,11.4,30632.26102,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,LA,Louisiana,RES,residential,,8.37,30026.58801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,KY,Kentucky,RES,residential,,9.43,26096.70699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,KS,Kansas,RES,residential,,11.24,13796.67898,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,IN,Indiana,RES,residential,,10.53,32963.52203,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,IL,Illinois,RES,residential,,11.37,46901.86999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,GA,Georgia,RES,residential,,11.17,53660.167,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,FL,Florida,RES,residential,,11.42,112127.05601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,DC,District of Columbia,RES,residential,,12.28,2002.527,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,DE,Delaware,RES,residential,,13.58,4521.682,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,CT,Connecticut,RES,residential,,17.34,12757.633,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,CO,Colorado,RES,residential,,11.46,18220.36501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,MI,Michigan,RES,residential,,14.13,34461.13999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,MA,Massachusetts,RES,residential,,14.91,20313.469,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,MD,Maryland,RES,residential,,12.84,26678.15801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,ME,Maine,RES,residential,,14.66,4480.736,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,IA,Iowa,RES,residential,,10.82,13987.61299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,ID,Idaho,RES,residential,,8.67,8159.349,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,HI,Hawaii,RES,residential,,37.34,2739.298,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,WI,Wisconsin,RES,residential,,13.19,22026.35301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,WV,West Virginia,RES,residential,,9.85,11194.679,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,WA,Washington,RES,residential,,8.53,35510.961,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,VA,Virginia,RES,residential,,11.08,43534.675,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,VT,Vermont,RES,residential,,17.01,2095.283,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,UT,Utah,RES,residential,,9.93,9188.204,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,TX,Texas,RES,residential,,10.98,137411.63299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,TN,Tennessee,RES,residential,,10.1,39753.63099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,SD,South Dakota,RES,residential,,10.07,4453.732,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,SC,South Carolina,RES,residential,,11.77,28366.263,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,RI,Rhode Island,RES,residential,,14.4,3121.367,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,WY,Wyoming,RES,residential,,9.85,2716.52799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,ND,North Dakota,RES,residential,,9.06,4484.758,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,NC,North Carolina,RES,residential,,10.91,54671.52098,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,NY,New York,RES,residential,,17.62,50691.506,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,NM,New Mexico,RES,residential,,11.37,6763.82,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,NJ,New Jersey,RES,residential,,15.78,28662.958,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,NH,New Hampshire,RES,residential,,16.07,4439.208,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,NV,Nevada,RES,residential,,11.83,12122.718,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,NE,Nebraska,RES,residential,,10.04,9680.14301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,MT,Montana,RES,residential,,10.08,4778.36501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,MO,Missouri,RES,residential,,10.17,34336.61498,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,MS,Mississippi,RES,residential,,10.26,17992.70799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,MN,Minnesota,RES,residential,,11.35,22059.63099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,PA,Pennsylvania,RES,residential,,12.75,52876.058,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,OR,Oregon,RES,residential,,9.8,18854.65901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2012,OK,Oklahoma,RES,residential,,9.51,22809.68001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,NE,Nebraska,RES,residential,,9.32,9946.97301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,ND,North Dakota,RES,residential,,8.58,4552.228,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,NC,North Carolina,RES,residential,,10.26,58055.87802,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,NY,New York,RES,residential,,18.26,51239.59901,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,NH,New Hampshire,RES,residential,,16.52,4454.088,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,NM,New Mexico,RES,residential,,11,6873.748,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,NJ,New Jersey,RES,residential,,16.23,29398.87001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,MD,Maryland,RES,residential,,13.31,27295.675,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,IL,Illinois,RES,residential,,11.78,47057.00202,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,ID,Idaho,RES,residential,,7.87,8389.866,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,HI,Hawaii,RES,residential,,34.68,2928.743,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,ME,Maine,RES,residential,,15.38,4381.536,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,LA,Louisiana,RES,residential,,8.96,32019.04,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,KY,Kentucky,RES,residential,,9.2,27197.836,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,KS,Kansas,RES,residential,,10.65,14343.74798,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,IA,Iowa,RES,residential,,10.46,14326.77099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,WY,Wyoming,RES,residential,,9.11,2802.72599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,WI,Wisconsin,RES,residential,,13.02,22149.94102,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,WV,West Virginia,RES,residential,,9.39,11746.151,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,WA,Washington,RES,residential,,8.28,36376.143,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,VA,Virginia,RES,residential,,10.64,45771.144,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,VT,Vermont,RES,residential,,16.26,2124.533,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,UT,Utah,RES,residential,,8.96,8946.74101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,TX,Texas,RES,residential,,11.08,145654.22801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,TN,Tennessee,RES,residential,,9.98,43067.861,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,OK,Oklahoma,RES,residential,,9.47,24425.027,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,OH,Ohio,RES,residential,,11.42,53687.11101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,SD,South Dakota,RES,residential,,9.35,4646.38399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,IN,Indiana,RES,residential,,10.06,33912.09799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,AZ,Arizona,RES,residential,,11.08,33079.074,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,AK,Alaska,RES,residential,,17.62,2134.42196,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,AL,Alabama,RES,residential,,11.09,33002.81499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,MT,Montana,RES,residential,,9.75,4913.11,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,MO,Missouri,RES,residential,,9.75,35941.24301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,MS,Mississippi,RES,residential,,10.17,19336.43,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,MN,Minnesota,RES,residential,,10.96,22523.72703,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,MI,Michigan,RES,residential,,13.27,34811.337,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,MA,Massachusetts,RES,residential,,14.67,20472.512,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,GA,Georgia,RES,residential,,11.05,57749.519,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,FL,Florida,RES,residential,,11.51,116341.105,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,DC,District of Columbia,RES,residential,,13.4,2061.392,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,DE,Delaware,RES,residential,,13.7,4632.094,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,SC,South Carolina,RES,residential,,11.05,30801.731,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,RI,Rhode Island,RES,residential,,14.33,3129.446,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,CT,Connecticut,RES,residential,,18.11,12918.796,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,CO,Colorado,RES,residential,,11.27,18276.79899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,CA,California,RES,residential,,14.78,88398.416,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,PA,Pennsylvania,RES,residential,,13.26,54795.633,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,AR,Arkansas,RES,residential,,9.02,18787.349,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,OR,Oregon,RES,residential,,9.54,19429.175,number of customers,cents per kilowatt-hour,million kilowatt hours
+2011,NV,Nevada,RES,residential,,11.61,11493.279,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,NV,Nevada,RES,residential,,12.36,11614.669,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,ID,Idaho,RES,residential,,7.99,8136.736,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,HI,Hawaii,RES,residential,,28.1,2989.499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,MD,Maryland,RES,residential,,14.32,28934.074,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,ME,Maine,RES,residential,,15.72,4371.835,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,LA,Louisiana,RES,residential,,8.98,32678.931,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,KY,Kentucky,RES,residential,,8.57,29136.51799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,WY,Wyoming,RES,residential,,8.77,2727.20099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,WI,Wisconsin,RES,residential,,12.65,22299.49299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,WV,West Virginia,RES,residential,,8.79,12442.583,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,WA,Washington,RES,residential,,8.04,34906.92601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,VA,Virginia,RES,residential,,10.45,48438.958,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,DC,District of Columbia,RES,residential,,14.01,2123.312,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,GA,Georgia,RES,residential,,10.07,61554.49799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,FL,Florida,RES,residential,,11.44,122244.64998,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,IA,Iowa,RES,residential,,10.42,14554.88798,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,IN,Indiana,RES,residential,,9.56,35058.37199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,IL,Illinois,RES,residential,,11.52,48582.984,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,DE,Delaware,RES,residential,,13.8,4759.973,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,CT,Connecticut,RES,residential,,19.25,13065.275,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,CO,Colorado,RES,residential,,11.04,18102.386,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,CA,California,RES,residential,,14.75,87256.946,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,AR,Arkansas,RES,residential,,8.86,19230.961,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,AZ,Arizona,RES,residential,,10.97,32448.13799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,AK,Alaska,RES,residential,,16.26,2093.21701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,AL,Alabama,RES,residential,,10.67,35529.292,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,NE,Nebraska,RES,residential,,8.94,10106.673,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,MT,Montana,RES,residential,,9.16,4742.794,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,MO,Missouri,RES,residential,,9.08,37302.27899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,MS,Mississippi,RES,residential,,9.87,20174.826,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,MN,Minnesota,RES,residential,,10.59,22464.79701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,MI,Michigan,RES,residential,,12.46,34680.715,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,MA,Massachusetts,RES,residential,,14.59,21409.00499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,KS,Kansas,RES,residential,,10.03,14334.08599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,ND,North Dakota,RES,residential,,8.13,4392.596,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,NC,North Carolina,RES,residential,,10.12,62160.10701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,NY,New York,RES,residential,,18.74,50945.648,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,NM,New Mexico,RES,residential,,10.52,6752.473,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,RI,Rhode Island,RES,residential,,15.92,3117.808,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,PA,Pennsylvania,RES,residential,,12.7,55252.837,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,OR,Oregon,RES,residential,,8.87,18838.666,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,OK,Oklahoma,RES,residential,,9.14,23688.86101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,OH,Ohio,RES,residential,,11.31,54474.37699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,NH,New Hampshire,RES,residential,,16.32,4485.469,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,NJ,New Jersey,RES,residential,,16.57,30307.268,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,SC,South Carolina,RES,residential,,10.5,32852.08599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,SD,South Dakota,RES,residential,,8.97,4628.123,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,TN,Tennessee,RES,residential,,9.23,45191.027,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,TX,Texas,RES,residential,,11.6,137161.40201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,UT,Utah,RES,residential,,8.71,8834.23,number of customers,cents per kilowatt-hour,million kilowatt hours
+2010,VT,Vermont,RES,residential,,15.57,2127.93501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,NY,New York,RES,residential,6916412,17.5,48245.841,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,AL,Alabama,RES,residential,2128008,10.66,31489.411,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,TN,Tennessee,RES,residential,2693818,9.32,40274.908,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,LA,Louisiana,RES,residential,1946997,8.1,29746.79799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,KY,Kentucky,RES,residential,1924886,8.37,26560.66899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,KS,Kansas,RES,residential,1209520,9.53,13149.1,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,IA,Iowa,RES,residential,1324180,9.99,13723.413,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,IL,Illinois,RES,residential,5074861,11.27,44324.492,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,MT,Montana,RES,residential,466160,8.94,4790.401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,MO,Missouri,RES,residential,2687755,8.54,34220.69401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,GA,Georgia,RES,residential,4061860,10.13,55157.559,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,FL,Florida,RES,residential,8493590,12.39,115473.511,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,CT,Connecticut,RES,residential,1447249,20.33,12578.225,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,CO,Colorado,RES,residential,2111621,10,17412.63,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,CA,California,RES,residential,12910854,14.74,89798.789,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,TX,Texas,RES,residential,9491966,12.38,129814.89998,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,DC,District of Columbia,RES,residential,221794,13.73,1899.655,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,DE,Delaware,RES,residential,393836,14.07,4334.912,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,AR,Arkansas,RES,residential,1315040,9.14,16985.526,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,AZ,Arizona,RES,residential,2544382,10.73,32846.843,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,AK,Alaska,RES,residential,269746,17.14,2117.39299,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,HI,Hawaii,RES,residential,412843,24.2,3055.273,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,WY,Wyoming,RES,residential,255382,8.58,2719.52401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,WI,Wisconsin,RES,residential,2589295,11.94,21421.04501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,WV,West Virginia,RES,residential,865647,7.9,11587.693,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,WA,Washington,RES,residential,2809301,7.67,36768.18399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,VA,Virginia,RES,residential,3189115,10.61,44763.019,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,UT,Utah,RES,residential,932015,8.48,8725.27399,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,MS,Mississippi,RES,residential,1243261,10.22,18095.19401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,MN,Minnesota,RES,residential,2290878,10.04,22033.95899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,MI,Michigan,RES,residential,4253785,11.6,32854.122,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,MA,Massachusetts,RES,residential,2661984,16.87,19474.64701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,MD,Maryland,RES,residential,2188390,14.98,26944.566,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,ME,Maine,RES,residential,696822,15.64,4360.002,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,IN,Indiana,RES,residential,2733610,9.5,32548.11302,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,ID,Idaho,RES,residential,659775,7.8,8553.61,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,SD,South Dakota,RES,residential,367204,8.49,4511.30801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,VT,Vermont,RES,residential,306918,14.9,2121.828,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,OK,Oklahoma,RES,residential,1643674,8.49,21640.95499,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,NM,New Mexico,RES,residential,844864,10.02,6503.77201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,NJ,New Jersey,RES,residential,3430837,16.31,27832.944,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,NH,New Hampshire,RES,residential,591159,16.39,4421.522,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,NV,Nevada,RES,residential,1054926,12.86,11880.15,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,NE,Nebraska,RES,residential,799620,8.52,9626.93899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,SC,South Carolina,RES,residential,2083431,10.44,29556.323,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,RI,Rhode Island,RES,residential,432102,15.6,2936.699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,PA,Pennsylvania,RES,residential,5235328,11.65,52905.995,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,OR,Oregon,RES,residential,1623386,8.68,19804.31501,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,OH,Ohio,RES,residential,4880392,10.67,51405.16201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,ND,North Dakota,RES,residential,322464,7.58,4449.22,number of customers,cents per kilowatt-hour,million kilowatt hours
+2009,NC,North Carolina,RES,residential,4175831,9.99,56311.126,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,HI,Hawaii,RES,residential,409668,32.5,3085.237,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,IN,Indiana,RES,residential,2733127,8.87,33980.41099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,IL,Illinois,RES,residential,5098579,11.07,46780.34599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,ID,Idaho,RES,residential,654546,6.99,8539.74301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,GA,Georgia,RES,residential,4034759,9.93,55586.62401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,FL,Florida,RES,residential,8478407,11.65,113936.97801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,DC,District of Columbia,RES,residential,217144,12.78,1915.64,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,DE,Delaware,RES,residential,391810,13.93,4428.194,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,CT,Connecticut,RES,residential,1452080,19.54,12729.694,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,CA,California,RES,residential,12941717,13.81,91230.81799,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,AR,Arkansas,RES,residential,1308812,9.27,17392.467,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,AZ,Arizona,RES,residential,2528403,10.27,33236.37,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,AK,Alaska,RES,residential,268824,16.56,2129.81099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,AL,Alabama,RES,residential,2110865,10.4,32184.54,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,OK,Oklahoma,RES,residential,1633272,9.09,21861.11201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,OH,Ohio,RES,residential,4891891,10.06,53410.59898,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,ND,North Dakota,RES,residential,318759,7.51,4259.072,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,NC,North Carolina,RES,residential,4147625,9.52,55751.20101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,NY,New York,RES,residential,6897087,18.31,49033.94999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,NM,New Mexico,RES,residential,841330,10.01,6378.856,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,NJ,New Jersey,RES,residential,3409805,15.66,29111.023,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,NV,Nevada,RES,residential,1054690,11.93,12060.515,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,NE,Nebraska,RES,residential,795001,7.87,9755.62602,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,MO,Missouri,RES,residential,2686745,8,35389.94098,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,MS,Mississippi,RES,residential,1238413,10.39,18293.688,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,MN,Minnesota,RES,residential,2280073,9.74,22357.408,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,MI,Michigan,RES,residential,4290313,10.75,34297.438,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,MA,Massachusetts,RES,residential,2647531,17.56,19638.491,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,MD,Maryland,RES,residential,2178594,13.84,27144.255,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,ME,Maine,RES,residential,695367,16.24,4351.309,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,LA,Louisiana,RES,residential,1920085,10.28,28848.402,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,KY,Kentucky,RES,residential,1928083,7.94,27561.64101,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,WY,Wyoming,RES,residential,252987,8.21,2718.705,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,WI,Wisconsin,RES,residential,2579774,11.51,21976.10601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,WV,West Virginia,RES,residential,863650,7.06,11762.543,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,WA,Washington,RES,residential,2789187,7.54,36335.84701,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,VA,Virginia,RES,residential,3169283,9.62,44596.588,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,VT,Vermont,RES,residential,306174,14.48,2133.497,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,UT,Utah,RES,residential,924828,8.26,8786.27801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,CO,Colorado,RES,residential,2173457,10.13,17720.491,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,TX,Texas,RES,residential,9461513,13.03,128240.04801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,TN,Tennessee,RES,residential,2685423,8.91,41946.55199,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,SD,South Dakota,RES,residential,363518,8.27,4405.631,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,SC,South Carolina,RES,residential,2068600,9.89,29727.267,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,RI,Rhode Island,RES,residential,430152,17.45,3042.684,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,KS,Kansas,RES,residential,1255860,8.89,13501.92401,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,PA,Pennsylvania,RES,residential,5231696,11.35,54059.762,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,OR,Oregon,RES,residential,1616596,8.49,19909.844,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,NH,New Hampshire,RES,residential,594179,15.68,4393.951,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,MT,Montana,RES,residential,461598,9.13,4669.46699,number of customers,cents per kilowatt-hour,million kilowatt hours
+2008,IA,Iowa,RES,residential,1325992,9.49,14073.15999,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,MS,Mississippi,RES,residential,,9.36,18565.875,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,DE,Delaware,RES,residential,,13.16,4469.619,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,CT,Connecticut,RES,residential,,19.11,13372.09,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,WY,Wyoming,RES,residential,,7.75,2592.119,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,WI,Wisconsin,RES,residential,,10.87,22374.048,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,WV,West Virginia,RES,residential,,6.73,11749.31,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,WA,Washington,RES,residential,,7.26,35388.779,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,VA,Virginia,RES,residential,,8.74,45480.519,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,VT,Vermont,RES,residential,,14.15,2169.646,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,UT,Utah,RES,residential,,8.15,8751.547,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,TX,Texas,RES,residential,,12.34,124921.214,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,TN,Tennessee,RES,residential,,7.84,42879.972,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,SD,South Dakota,RES,residential,,8.07,4260.638,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,SC,South Carolina,RES,residential,,9.19,29569.241,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,RI,Rhode Island,RES,residential,,14.05,3131.775,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,PA,Pennsylvania,RES,residential,,10.95,54586.82,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,OR,Oregon,RES,residential,,8.19,19374.458,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,ID,Idaho,RES,residential,,6.36,8339.433,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,HI,Hawaii,RES,residential,,24.12,3200.725,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,CO,Colorado,RES,residential,,9.25,17634.182,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,CA,California,RES,residential,,14.42,89158.461,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,AR,Arkansas,RES,residential,,8.73,17414.562,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,AL,Alabama,RES,residential,,9.32,32783.444,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,GA,Georgia,RES,residential,,9.1,56223.367,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,FL,Florida,RES,residential,,11.22,117816.205,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,DC,District of Columbia,RES,residential,,11.18,1969.563,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,AK,Alaska,RES,residential,,15.18,2114.456,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,NC,North Carolina,RES,residential,,9.4,56095.471,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,NY,New York,RES,residential,,17.1,50241.444,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,NM,New Mexico,RES,residential,,9.12,6387.363,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,NJ,New Jersey,RES,residential,,14.14,29751.647,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,NH,New Hampshire,RES,residential,,14.88,4492.87,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,NV,Nevada,RES,residential,,11.82,12390.18,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,NE,Nebraska,RES,residential,,7.59,9747.547,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,MN,Minnesota,RES,residential,,9.18,22645.637,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,MI,Michigan,RES,residential,,10.21,35366.081,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,MA,Massachusetts,RES,residential,,16.23,20137.533,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,MD,Maryland,RES,residential,,11.89,28194.802,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,ME,Maine,RES,residential,,16.52,4413.151,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,LA,Louisiana,RES,residential,,9.37,28877.812,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,KY,Kentucky,RES,residential,,7.34,28003.953,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,KS,Kansas,RES,residential,,8.19,13806.496,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,IA,Iowa,RES,residential,,9.45,14060.336,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,IN,Indiana,RES,residential,,8.26,34646.057,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,IL,Illinois,RES,residential,,10.12,48036.261,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,OK,Oklahoma,RES,residential,,8.58,21360.557,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,OH,Ohio,RES,residential,,9.57,54375.759,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,ND,North Dakota,RES,residential,,7.3,4067.284,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,AZ,Arizona,RES,residential,,9.66,34436.657,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,MT,Montana,RES,residential,,8.77,4541.544,number of customers,cents per kilowatt-hour,million kilowatt hours
+2007,MO,Missouri,RES,residential,,7.69,35872.486,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,SC,South Carolina,RES,residential,,9.03,28539.117,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,NH,New Hampshire,RES,residential,,14.68,4400.597,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,NV,Nevada,RES,residential,,11.08,11978.12,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,NE,Nebraska,RES,residential,,7.41,9293.507,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,MT,Montana,RES,residential,,8.28,4393.973,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,MO,Missouri,RES,residential,,7.44,33880.156,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,MS,Mississippi,RES,residential,,9.66,18276.131,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,MN,Minnesota,RES,residential,,8.7,21909.406,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,MI,Michigan,RES,residential,,9.77,34622.099,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,MA,Massachusetts,RES,residential,,16.6,19624.43,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,MD,Maryland,RES,residential,,9.71,26905.386,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,ME,Maine,RES,residential,,13.8,4351.049,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,LA,Louisiana,RES,residential,,9.14,28112.801,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,OH,Ohio,RES,residential,,9.34,51375.232,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,ND,North Dakota,RES,residential,,7.14,3853.04,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,NC,North Carolina,RES,residential,,9.12,52851.296,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,NY,New York,RES,residential,,16.89,48426.749,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,NM,New Mexico,RES,residential,,9.06,6009.427,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,NJ,New Jersey,RES,residential,,12.84,28621.556,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,RI,Rhode Island,RES,residential,,15.12,3008.443,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,PA,Pennsylvania,RES,residential,,10.35,51790.117,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,DE,Delaware,RES,residential,,11.85,4258.638,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,FL,Florida,RES,residential,,11.33,117053.005,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,DC,District of Columbia,RES,residential,,9.88,1822.11,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,CT,Connecticut,RES,residential,,16.86,12963.468,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,CO,Colorado,RES,residential,,9.02,16951.534,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,CA,California,RES,residential,,14.33,89835.749,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,AL,Alabama,RES,residential,,8.75,32277.083,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,HI,Hawaii,RES,residential,,23.35,3182.432,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,GA,Georgia,RES,residential,,8.91,54520.612,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,OR,Oregon,RES,residential,,7.48,18977.579,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,OK,Oklahoma,RES,residential,,8.55,21690.395,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,KY,Kentucky,RES,residential,,7.02,25948.878,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,KS,Kansas,RES,residential,,8.25,13502.671,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,IA,Iowa,RES,residential,,9.63,13344.308,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,IN,Indiana,RES,residential,,8.22,32286.467,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,IL,Illinois,RES,residential,,8.42,46381.486,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,ID,Idaho,RES,residential,,6.21,8057.475,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,AR,Arkansas,RES,residential,,8.85,17065.081,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,AZ,Arizona,RES,residential,,9.4,32367.475,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,AK,Alaska,RES,residential,,14.83,2120.254,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,WY,Wyoming,RES,residential,,7.75,2467.935,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,WI,Wisconsin,RES,residential,,10.51,21779.468,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,WV,West Virginia,RES,residential,,6.35,11014.418,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,WA,Washington,RES,residential,,6.82,34438.565,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,VA,Virginia,RES,residential,,8.49,42906.018,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,VT,Vermont,RES,residential,,13.39,2142.237,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,UT,Utah,RES,residential,,7.59,8232.05,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,TX,Texas,RES,residential,,12.86,126843.225,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,TN,Tennessee,RES,residential,,7.75,40815.857,number of customers,cents per kilowatt-hour,million kilowatt hours
+2006,SD,South Dakota,RES,residential,,7.83,4050.931,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,CA,California,RES,residential,,12.51,85610.41,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,CO,Colorado,RES,residential,,9.06,16436.381,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,CT,Connecticut,RES,residential,,13.64,13802.962,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,DE,Delaware,RES,residential,,9.01,4594.009,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,DC,District of Columbia,RES,residential,,9.1,1938.27,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,FL,Florida,RES,residential,,9.62,115791.459,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,GA,Georgia,RES,residential,,8.64,52826.512,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,HI,Hawaii,RES,residential,,20.7,3164.065,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,ID,Idaho,RES,residential,,6.29,7600.766,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,IL,Illinois,RES,residential,,8.34,48592.601,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,IN,Indiana,RES,residential,,7.5,33628.67,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,MS,Mississippi,RES,residential,,8.71,17953.344,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,MO,Missouri,RES,residential,,7.08,34411.988,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,MT,Montana,RES,residential,,8.1,4221.448,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,NE,Nebraska,RES,residential,,7.14,9309.209,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,NV,Nevada,RES,residential,,10.2,11079.816,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,NH,New Hampshire,RES,residential,,13.51,4495.376,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,NJ,New Jersey,RES,residential,,11.74,29973.443,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,ME,Maine,RES,residential,,13.23,4503.454,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,MD,Maryland,RES,residential,,8.46,28439.645,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,MA,Massachusetts,RES,residential,,13.44,20539.324,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,IA,Iowa,RES,residential,,9.27,13570.604,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,KS,Kansas,RES,residential,,7.9,13406.146,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,KY,Kentucky,RES,residential,,6.57,26947.109,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,LA,Louisiana,RES,residential,,8.87,28654.171,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,MI,Michigan,RES,residential,,8.4,36094.954,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,MN,Minnesota,RES,residential,,8.28,21743.001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,NM,New Mexico,RES,residential,,9.13,5864.834,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,NY,New York,RES,residential,,15.72,50532.85,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,NC,North Carolina,RES,residential,,8.65,54072.734,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,ND,North Dakota,RES,residential,,6.99,3796.009,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,OH,Ohio,RES,residential,,8.51,53904.244,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,OK,Oklahoma,RES,residential,,7.95,21309.314,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,OR,Oregon,RES,residential,,7.25,18338.815,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,PA,Pennsylvania,RES,residential,,9.86,53661.476,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,RI,Rhode Island,RES,residential,,13.04,3171.377,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,SC,South Carolina,RES,residential,,8.67,28675.763,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,SD,South Dakota,RES,residential,,7.77,3972.979,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,TN,Tennessee,RES,residential,,6.98,41132.286,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,TX,Texas,RES,residential,,10.93,126561.913,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,AL,Alabama,RES,residential,,8,31315.1,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,AK,Alaska,RES,residential,,13.3,2061.652,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,AZ,Arizona,RES,residential,,8.86,30543.645,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,AR,Arkansas,RES,residential,,8,17133.693,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,UT,Utah,RES,residential,,7.52,7567.279,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,VT,Vermont,RES,residential,,12.96,2188.639,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,VA,Virginia,RES,residential,,8.16,44661.839,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,WA,Washington,RES,residential,,6.54,33212.197,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,WV,West Virginia,RES,residential,,6.21,11384.443,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,WI,Wisconsin,RES,residential,,9.66,22458.357,number of customers,cents per kilowatt-hour,million kilowatt hours
+2005,WY,Wyoming,RES,residential,,7.48,2376.532,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,AL,Alabama,RES,residential,,7.62,30109.115,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,AZ,Arizona,RES,residential,,8.46,28920.651,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,AK,Alaska,RES,residential,,12.44,2061.905,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,SC,South Carolina,RES,residential,,8.12,27909.738,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,RI,Rhode Island,RES,residential,,12.19,3000.355,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,PA,Pennsylvania,RES,residential,,9.58,50663.389,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,OR,Oregon,RES,residential,,7.18,18000.708,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,OK,Oklahoma,RES,residential,,7.72,19699.041,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,OH,Ohio,RES,residential,,8.45,50300.038,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,ND,North Dakota,RES,residential,,6.79,3662.781,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,NC,North Carolina,RES,residential,,8.45,51717.38,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,NY,New York,RES,residential,,14.54,47378.876,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,NM,New Mexico,RES,residential,,8.67,5634.821,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,NJ,New Jersey,RES,residential,,11.23,28020.125,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,NH,New Hampshire,RES,residential,,12.49,4281.738,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,NV,Nevada,RES,residential,,9.69,10672.59,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,CO,Colorado,RES,residential,,8.42,15532.168,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,CA,California,RES,residential,,12.2,83361.251,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,AR,Arkansas,RES,residential,,7.36,15619.397,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,NE,Nebraska,RES,residential,,6.96,8756.735,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,MT,Montana,RES,residential,,7.86,4052.761,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,MO,Missouri,RES,residential,,6.97,31350.643,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,MS,Mississippi,RES,residential,,8.21,17580.026,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,MN,Minnesota,RES,residential,,7.92,20507.412,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,MI,Michigan,RES,residential,,8.33,33103.586,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,MA,Massachusetts,RES,residential,,11.75,19768.529,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,MD,Maryland,RES,residential,,7.8,27951.978,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,ME,Maine,RES,residential,,12.16,4331.109,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,LA,Louisiana,RES,residential,,8.05,28862.996,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,KY,Kentucky,RES,residential,,6.11,25186.568,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,KS,Kansas,RES,residential,,7.74,12416.599,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,WY,Wyoming,RES,residential,,7.21,2261.814,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,WI,Wisconsin,RES,residential,,9.07,21192.325,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,CT,Connecticut,RES,residential,,11.63,13211.39,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,TX,Texas,RES,residential,,9.73,120329.88,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,TN,Tennessee,RES,residential,,6.9,38525.656,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,SD,South Dakota,RES,residential,,7.65,3695.725,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,IA,Iowa,RES,residential,,8.96,12625.127,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,IN,Indiana,RES,residential,,7.3,31192.229,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,IL,Illinois,RES,residential,,8.37,43442.533,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,ID,Idaho,RES,residential,,6.1,7313.929,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,HI,Hawaii,RES,residential,,18.06,3162.192,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,GA,Georgia,RES,residential,,7.86,51123.502,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,FL,Florida,RES,residential,,8.99,112203.012,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,WV,West Virginia,RES,residential,,6.23,10755.869,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,WA,Washington,RES,residential,,6.37,32454.682,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,VA,Virginia,RES,residential,,7.99,42503.395,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,VT,Vermont,RES,residential,,12.94,2109.494,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,UT,Utah,RES,residential,,7.21,7324.848,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,DC,District of Columbia,RES,residential,,8,1834.434,number of customers,cents per kilowatt-hour,million kilowatt hours
+2004,DE,Delaware,RES,residential,,8.78,4304.533,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,VT,Vermont,RES,residential,,12.82,2011.389,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,WY,Wyoming,RES,residential,,7.04,2286.201,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,WI,Wisconsin,RES,residential,,8.67,21364.143,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,WV,West Virginia,RES,residential,,6.24,10473.404,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,WA,Washington,RES,residential,,6.31,31872.045,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,VA,Virginia,RES,residential,,7.76,40876.706,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,MO,Missouri,RES,residential,,6.96,31421.927,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,MT,Montana,RES,residential,,7.56,4120.15,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,NE,Nebraska,RES,residential,,6.87,8852.219,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,NV,Nevada,RES,residential,,9.02,10339.935,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,NH,New Hampshire,RES,residential,,11.98,4251.834,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,NJ,New Jersey,RES,residential,,10.67,27367.126,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,NM,New Mexico,RES,residential,,8.69,5418.038,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,NY,New York,RES,residential,,14.31,47115.887,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,NC,North Carolina,RES,residential,,8.32,49348.767,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,ND,North Dakota,RES,residential,,6.49,3707.436,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,OH,Ohio,RES,residential,,8.26,49620.578,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,AL,Alabama,RES,residential,,7.39,29416.418,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,AK,Alaska,RES,residential,,11.98,1987.009,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,AZ,Arizona,RES,residential,,8.35,27741.52,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,AR,Arkansas,RES,residential,,7.24,15598.301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,CA,California,RES,residential,,12.23,82925.899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,CO,Colorado,RES,residential,,8.14,15724.839,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,CT,Connecticut,RES,residential,,11.31,13178.336,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,DE,Delaware,RES,residential,,8.59,4190.39,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,DC,District of Columbia,RES,residential,,7.84,1754.304,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,FL,Florida,RES,residential,,8.55,112649.865,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,GA,Georgia,RES,residential,,7.7,48174.23,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,HI,Hawaii,RES,residential,,16.73,3027.624,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,ID,Idaho,RES,residential,,6.24,7089.744,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,IL,Illinois,RES,residential,,8.38,43161.332,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,IN,Indiana,RES,residential,,7.04,30726.178,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,IA,Iowa,RES,residential,,8.57,12767.551,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,KS,Kansas,RES,residential,,7.71,12602.296,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,KY,Kentucky,RES,residential,,5.81,24703.645,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,LA,Louisiana,RES,residential,,7.84,28572.305,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,ME,Maine,RES,residential,,12.37,4218.952,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,MD,Maryland,RES,residential,,7.73,26671.274,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,MA,Massachusetts,RES,residential,,11.6,19590.791,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,MI,Michigan,RES,residential,,8.35,33669.474,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,MN,Minnesota,RES,residential,,7.65,20637.751,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,MS,Mississippi,RES,residential,,7.6,17669.709,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,OK,Oklahoma,RES,residential,,7.47,20161.967,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,OR,Oregon,RES,residential,,7.06,17735.56,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,PA,Pennsylvania,RES,residential,,9.59,49651.001,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,RI,Rhode Island,RES,residential,,11.61,2998.209,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,SC,South Carolina,RES,residential,,8.01,26421.639,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,SD,South Dakota,RES,residential,,7.47,3739.838,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,TN,Tennessee,RES,residential,,6.55,37696.941,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,TX,Texas,RES,residential,,9.16,121354.826,number of customers,cents per kilowatt-hour,million kilowatt hours
+2003,UT,Utah,RES,residential,,6.9,7166.407,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,UT,Utah,RES,residential,,6.79,6938.291,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,MN,Minnesota,RES,residential,,7.49,20450.927,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,MI,Michigan,RES,residential,,8.28,34336.161,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,MA,Massachusetts,RES,residential,,10.93,18694.666,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,MD,Maryland,RES,residential,,7.74,25489.053,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,ME,Maine,RES,residential,,12.74,4043.1,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,LA,Louisiana,RES,residential,,7.1,28157.092,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,AZ,Arizona,RES,residential,,8.27,26412.614,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,AK,Alaska,RES,residential,,12.05,1932.217,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,AL,Alabama,RES,residential,,7.12,30021.763,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,SC,South Carolina,RES,residential,,7.72,26786.631,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,RI,Rhode Island,RES,residential,,10.2,2828.887,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,PA,Pennsylvania,RES,residential,,9.74,48729.956,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,OR,Oregon,RES,residential,,7.12,17553.984,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,OK,Oklahoma,RES,residential,,6.73,19927.272,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,OH,Ohio,RES,residential,,8.24,50863.643,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,ND,North Dakota,RES,residential,,6.39,3663.885,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,NC,North Carolina,RES,residential,,8.19,49854.417,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,NY,New York,RES,residential,,13.55,46457.03,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,NM,New Mexico,RES,residential,,8.5,5238.134,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,NJ,New Jersey,RES,residential,,10.38,27171.374,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,NH,New Hampshire,RES,residential,,11.89,4002.52,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,NV,Nevada,RES,residential,,9.43,9702.083,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,NE,Nebraska,RES,residential,,6.73,8956.037,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,MT,Montana,RES,residential,,7.23,4030.664,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,MO,Missouri,RES,residential,,7.06,31684.209,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,MS,Mississippi,RES,residential,,7.28,17843.742,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,KY,Kentucky,RES,residential,,5.65,25347.157,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,KS,Kansas,RES,residential,,7.67,12745.301,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,IA,Iowa,RES,residential,,8.35,12920.571,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,IN,Indiana,RES,residential,,6.91,31567.9,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,IL,Illinois,RES,residential,,8.39,45030.069,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,ID,Idaho,RES,residential,,6.59,7055.912,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,HI,Hawaii,RES,residential,,15.63,2898.38,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,WY,Wyoming,RES,residential,,6.97,2232.285,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,WI,Wisconsin,RES,residential,,8.18,21575.371,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,WV,West Virginia,RES,residential,,6.23,10444.146,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,TX,Texas,RES,residential,,8.05,121435.11,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,TN,Tennessee,RES,residential,,6.41,38751.81,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,SD,South Dakota,RES,residential,,7.4,3733.016,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,GA,Georgia,RES,residential,,7.63,48599.732,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,FL,Florida,RES,residential,,8.16,108163.825,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,DC,District of Columbia,RES,residential,,7.98,1790.103,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,DE,Delaware,RES,residential,,8.7,4020.308,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,CT,Connecticut,RES,residential,,10.96,12472.813,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,CO,Colorado,RES,residential,,7.37,15424.846,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,CA,California,RES,residential,,12.64,77202.3,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,AR,Arkansas,RES,residential,,7.25,15527.374,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,WA,Washington,RES,residential,,6.29,32065.997,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,VA,Virginia,RES,residential,,7.79,40358.373,number of customers,cents per kilowatt-hour,million kilowatt hours
+2002,VT,Vermont,RES,residential,,12.78,2046.818,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,LA,Louisiana,RES,residential,,7.92,25800.335,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,ME,Maine,RES,residential,,13.13,3902.94,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,MD,Maryland,RES,residential,,7.67,24294.096,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,MA,Massachusetts,RES,residential,,12.47,17983.531,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,MI,Michigan,RES,residential,,8.26,32304.798,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,MN,Minnesota,RES,residential,,7.61,19399.686,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,MS,Mississippi,RES,residential,,7.37,16855.661,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,MO,Missouri,RES,residential,,7,30168.329,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,MT,Montana,RES,residential,,6.88,3886.224,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,UT,Utah,RES,residential,,6.72,6692.983,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,VT,Vermont,RES,residential,,12.67,2009.403,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,VA,Virginia,RES,residential,,7.79,37325.231,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,WA,Washington,RES,residential,,5.7,31608.471,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,WV,West Virginia,RES,residential,,6.26,9828.18,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,WI,Wisconsin,RES,residential,,7.9,20417.899,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,WY,Wyoming,RES,residential,,6.77,2145.532,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,IA,Iowa,RES,residential,,8.41,12429.672,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,KS,Kansas,RES,residential,,7.66,12062.329,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,KY,Kentucky,RES,residential,,5.58,23698.316,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,NE,Nebraska,RES,residential,,6.5,8638.208,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,NV,Nevada,RES,residential,,9.08,9606.869,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,AZ,Arizona,RES,residential,,8.3,26200.172,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,NH,New Hampshire,RES,residential,,12.49,3789.29,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,NJ,New Jersey,RES,residential,,10.21,25491.423,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,NM,New Mexico,RES,residential,,8.74,4999.477,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,NY,New York,RES,residential,,14.04,44235.593,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,NC,North Carolina,RES,residential,,8.12,46200.716,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,ND,North Dakota,RES,residential,,6.47,3479.809,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,OH,Ohio,RES,residential,,8.37,47346.163,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,OK,Oklahoma,RES,residential,,7.27,19795.853,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,OR,Oregon,RES,residential,,6.29,17502.996,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,PA,Pennsylvania,RES,residential,,9.68,46029.989,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,RI,Rhode Island,RES,residential,,12.13,2699.059,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,SC,South Carolina,RES,residential,,7.69,24874.643,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,SD,South Dakota,RES,residential,,7.42,3580.418,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,TN,Tennessee,RES,residential,,6.32,36931.534,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,TX,Texas,RES,residential,,8.86,117342.779,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,AL,Alabama,RES,residential,,7.01,27802.207,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,AK,Alaska,RES,residential,,12.12,1891.468,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,AR,Arkansas,RES,residential,,7.72,15103.946,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,CA,California,RES,residential,,12.09,76667.632,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,CO,Colorado,RES,residential,,7.47,14470.251,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,CT,Connecticut,RES,residential,,10.9,11974.617,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,DE,Delaware,RES,residential,,8.61,3733.993,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,DC,District of Columbia,RES,residential,,7.79,1698.868,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,FL,Florida,RES,residential,,8.59,101377.095,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,GA,Georgia,RES,residential,,7.72,44380.213,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,HI,Hawaii,RES,residential,,16.34,2802.47,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,ID,Idaho,RES,residential,,6.01,6905.546,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,IL,Illinois,RES,residential,,8.71,41820.005,number of customers,cents per kilowatt-hour,million kilowatt hours
+2001,IN,Indiana,RES,residential,,6.92,29419.675,number of customers,cents per kilowatt-hour,million kilowatt hours
